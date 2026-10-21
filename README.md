@@ -19,7 +19,7 @@ npm run dev
 
 ## GitHub Pages
 
-Создайте пустой репозиторий в своём GitHub, добавьте remote и отправьте ветку main. В Settings → Pages выберите Source: GitHub Actions. Workflow `.github/workflows/pages.yml` собирает и публикует dist. Сборка использует относительные пути и работает в подпапке репозитория. Проект сохранён как локальный Git-репозиторий; удалённый репозиторий не создавался.
+Создайте пустой репозиторий в своём GitHub, добавьте remote и отправьте ветку main. В Settings → Pages выберите Source: GitHub Actions. Workflow `.github/workflows/pages.yml` собирает и публикует dist. Сборка использует относительные пути и работает в подпапке репозитория. Исходный код: https://github.com/V0van200/Metro . Публикация настроена через GitHub Actions. Адрес после успешного развёртывания: https://v0van200.github.io/Metro/ .
 
 ## Как довести до рекламного качества
 
